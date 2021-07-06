@@ -1,4 +1,4 @@
-<img src="https://github.com/julienvinet/julienvinet/blob/master/profil.png" width="200px" align="left" />
+<img src="https://github.com/julienvinet/julienvinet/blob/main/profil.png" width="200px" align="left" />
 
 Hello, I'm Julien,\
 An SRE Engineer,\
